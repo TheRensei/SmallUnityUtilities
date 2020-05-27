@@ -1,7 +1,7 @@
 # SmallUnityUtilities
 Scripts for unity that do small stuff that I couldn't find anywhere so I wrote them.
 
-# [GridMaker.cs](https://github.com/TheRensei/SmallUnityUtilities/blob/master/GridMaker.cs)
+# [GridMaker.cs](GridMaker.cs)
 
 ![](https://raw.githubusercontent.com/TheRensei/SmallUnityUtilities/master/Images/GridMakerGif.gif)
 
@@ -12,3 +12,9 @@ Scripts for unity that do small stuff that I couldn't find anywhere so I wrote t
 Notes:
 - set size on any axis to make the 2D grid
 - keep the division amount on 1 to not divide the grid further
+
+# [State Machine](StateMachine)
+
+ Modified version based on:
+ - https://dev.to/jushii/state-machine-controller-for-unity-4fno
+ - https://noahbannister.blog/2017/12/19/building-a-modular-character-controller/

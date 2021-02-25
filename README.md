@@ -1,5 +1,5 @@
 # SmallUnityUtilities
-Scripts for unity that do stuff.
+Small scripts for unity that someone might find useful.
 
 # [GridMaker.cs](GridMaker.cs)
 
